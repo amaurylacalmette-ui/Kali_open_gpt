@@ -1,0 +1,11 @@
+node_modules
+.next
+.git
+db
+download
+docs
+*.log
+.z-ai-config
+.env*
+Dockerfile
+.dockerignore
