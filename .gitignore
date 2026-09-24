@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# next.js
+.next/
+out/
+build/
+next-env.d.ts
+
+# env & secrets — NEVER commit keys
+.env
+.env.*
+!.env.example
+.z-ai-config
+
+# databases / runtime data
+db/
+*.db
+*.sqlite
+
+# logs
+dev.log
+server.log
+*.log
+
+# misc
+.DS_Store
+*.pem
+coverage/
+.tool-results/
