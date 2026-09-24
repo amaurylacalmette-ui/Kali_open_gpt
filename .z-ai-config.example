@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://YOUR-OPENAI-COMPATIBLE-ENDPOINT/v1",
+  "apiKey": "YOUR_API_KEY"
+}
